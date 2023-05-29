@@ -1,0 +1,46 @@
+#add_btn
+{
+    width: 50px;
+    height: 50px;
+    background-image:url("add.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50%;
+    border-color:black;
+    border-style: solid;
+    border-width:3px;
+}
+#sub_btn
+{
+    width: 50px;
+    height: 50px;
+    background-image:url("sub.jpg");
+    background-repeat: no-repeat;
+    background-size: 120%;
+    border-radius: 50%;
+    border-color:black;
+    border-style: solid;
+    border-width:3px;
+    background-position: center;
+}
+input{
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type="checkbox"]
+{
+  width: 50px;
+  height: 50px;
+  margin-top: 25px;
+  margin: auto;
+  position: absolute;
+}
+
+
+
+

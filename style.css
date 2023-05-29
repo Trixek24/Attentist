@@ -1,0 +1,14 @@
+body{
+    background-image: linear-gradient(lightskyblue, white);
+    background-repeat: no-repeat;
+    
+}
+
+#border
+{
+    border-width: 3px;
+    border-style: solid;
+    border-color: white;
+    background-color: lightskyblue;
+    border-radius: 40px;
+}
